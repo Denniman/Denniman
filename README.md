@@ -7,7 +7,7 @@ I'm a software developer based in Yenagoa, Nigeria. I am passionate about giving
 - 👯 I’m looking to collaborate on any exiting project
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about HTML, CSS & JavaScript
-- 📫 How to reach me: [Twitter](https://twitter.com/denniman) [Linkedin](https://www.linkedin.com/in/dennis-terna/)
+- 📫 How to reach me: [Twitter](https://twitter.com/denniman), [Linkedin](https://www.linkedin.com/in/dennis-terna/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love visiting new places and making new friends
 
