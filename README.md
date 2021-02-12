@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Dennis!
+## 👋 Hi, I'm Dennis
 
 I'm a software developer based in Yenagoa, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with HTML, CSS, Sass, JavaScript(ES6) & React.
 
 - 🔭 I’m currently working on my portfolio site
-- 🌱 I’m currently learning React Native and TypeScript
+- 🌱 I’m currently learning React Native & TypeScript
 - 👯 I’m looking to collaborate on any exiting project
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about HTML, CSS & JavaScript
