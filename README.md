@@ -4,7 +4,7 @@ I'm a software developer based in Yenagoa, Nigeria. I am passionate about giving
 
 - 🔭 I’m currently working on my portfolio site
 - 🌱 I’m currently learning React Native & TypeScript
-- 👯 I’m looking to collaborate on any exiting project
+- 👯 I’m looking to collaborate on any exciting project
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about HTML, CSS & JavaScript
 - 📫 How to reach me: [Twitter](https://twitter.com/denniman), [Linkedin](https://www.linkedin.com/in/dennis-terna/)
