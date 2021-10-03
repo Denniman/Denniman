@@ -1,11 +1,10 @@
 ## 👋 Hi, I'm Dennis
 
-I'm a software developer based in Yenagoa, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with HTML, CSS, Sass, JavaScript(ES6) & React.
+I'm a software developer based in Yenagoa, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with React, TypeScript, Nodejs/Express and MongoDB.
 
-- 🔭 I’m currently working on my portfolio site
-- 🌱 I’m currently learning React Native & TypeScript
+- 🔭 I’m currently working on exciting projects
+- 🌱 I’m currently learning Nestjs and GraphQL
 - 👯 I’m looking to collaborate on any exciting project
-- 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about HTML, CSS & JavaScript
 - 📫 How to reach me: [Twitter](https://twitter.com/denniman), [Linkedin](https://www.linkedin.com/in/dennis-terna/)
 - 😄 Pronouns: he/him
