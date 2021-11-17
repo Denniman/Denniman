@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dennis
 
-I'm a software developer based in Yenagoa, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with React, TypeScript, Nodejs/Express and MongoDB.
+I'm a software developer based in Lagos, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with React, TypeScript, Nodejs/Express and MongoDB.
 
 - 🔭 I’m currently working on exciting projects
 - 🌱 I’m currently learning Nestjs and GraphQL
