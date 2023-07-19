@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Dennis
 
-I'm a software developer based in Lagos, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with React, TypeScript, Nodejs/Express and MongoDB.
+As a passionate software engineer, I find great joy in working with JavaScript, TypeScript, React, React Native, and NodeJS. With a focus on frontend development, I thrive on creating dynamic and responsive user interfaces that captivate and delight users. Leveraging the power of these cutting-edge technologies, I am dedicated to building robust and scalable web and mobile applications. From crafting elegant React components to developing efficient server-side logic with NodeJS, I embrace the full stack of modern web development. Committed to staying at the forefront of industry trends, I continuously expand my knowledge and skills to deliver exceptional digital experiences. By combining my technical expertise and creative problem-solving abilities, I aim to make a meaningful impact in the world of software engineering.
 
 - 🔭 I’m currently working on exciting projects
-- 🌱 I’m currently learning Mobile development
+- 🌱 I’m currently learning mobile development
 - 👯 I’m looking to collaborate on any exciting project
 - 💬 Ask me about JavaScript and React
 - 📫 How to reach me: [Twitter](https://twitter.com/denniman), [Linkedin](https://www.linkedin.com/in/dennis-terna/)
