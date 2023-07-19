@@ -3,9 +3,9 @@
 I'm a software developer based in Lagos, Nigeria. I am passionate about giving users an exciting experience on the web. I love working with React, TypeScript, Nodejs/Express and MongoDB.
 
 - 🔭 I’m currently working on exciting projects
-- 🌱 I’m currently learning Nestjs and GraphQL
+- 🌱 I’m currently learning Mobile development
 - 👯 I’m looking to collaborate on any exciting project
-- 💬 Ask me about HTML, CSS & JavaScript
+- 💬 Ask me about JavaScript and React
 - 📫 How to reach me: [Twitter](https://twitter.com/denniman), [Linkedin](https://www.linkedin.com/in/dennis-terna/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love visiting new places and making new friends
